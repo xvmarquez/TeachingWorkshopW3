@@ -12,3 +12,5 @@ Tools and Technologies
 * Python
 * Libraries: NumPy, Pandas, Scikit-Learn, NLTK
 * Machine Learning Models: Naive Bayes
+
+Download the data here: https://huggingface.co/datasets/imdb
